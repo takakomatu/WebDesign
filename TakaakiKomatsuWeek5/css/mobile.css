@@ -1,0 +1,106 @@
+body {
+    background-color: white;
+}
+
+
+ul {
+    list-style-type: none;
+    margin-left: 0, auto;
+   padding:0;
+    overflow: hidden;
+}
+
+li {
+
+ padding-top: 10px;
+	    padding-bottom: 10px;
+		 background-color: #000000;
+		  border-style: solid;
+		  border-bottom-width:1px;
+    border-color: #ffffff #ffffff;
+}
+p {
+color:white;
+
+}
+a:link, a:visited {
+    display: block;
+    width: 100%;
+    font-weight: bold;
+    color: #FFFFFF;
+   
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.bodycopystuff{
+color:blue;
+align:center;
+
+}
+a:hover, a:active {
+    background-color: #7A991A;
+}
+#container {
+	margin:auto;
+	width:90%;
+}
+
+#headerpic {
+	margin-left:1px;
+	width:90%;
+}
+
+
+#mobileclick {
+
+ background-image: url("../images/Camera.png");
+  width:350px;
+  height:350px;
+ background-repeat:no-repeat;
+ background-size: 350px;
+ clear:both;
+ margin: auto;
+ 
+}
+
+#mobileclick2 {
+
+ background-image: url("../images/Compas.png");
+  width:350px;
+  height:350px;
+ background-repeat:no-repeat;
+ background-size: 350px;
+ clear:both;
+ margin: auto;
+
+ 
+}
+
+#mobileclick3 {
+background-image: url("../images/Ipod.png");
+   width:350px;
+  height:350px;
+ background-repeat:no-repeat;
+ background-size: 350px;
+ clear:both;
+ margin: auto;
+ 
+ 
+}
+
+#mobileclick4 {
+background-image: url("../images/Radio.png");
+   width:350px;
+  height:350px;
+ background-repeat:no-repeat;
+ background-size: 350px;
+ clear:both;
+ margin: auto;
+ 
+ 
+}
+
+
